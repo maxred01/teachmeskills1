@@ -1,0 +1,1 @@
+data = lambda x: f''
